@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">冬冬的 GitHub 小世界</title>
+  <desc id="desc">浅粉色与淡紫色渐变横幅，点缀星星和圆形，写有 Dongdong 和 Welcome to my little corner。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff3f5"/>
+      <stop offset="0.55" stop-color="#f7e8ef"/>
+      <stop offset="1" stop-color="#ede8f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="1050" cy="52" r="180" fill="#fff" opacity=".32"/>
+  <circle cx="82" cy="306" r="128" fill="#eec6d6" opacity=".3"/>
+  <circle cx="1135" cy="300" r="108" fill="#d8cbed" opacity=".36"/>
+  <rect x="24" y="24" width="1152" height="272" rx="15" fill="none" stroke="#fff" stroke-width="2" opacity=".7"/>
+  <g fill="#c18aa7">
+    <path d="M172 69l3 10 10 3-10 3-3 10-3-10-10-3 10-3z"/>
+    <path d="M990 210l4 13 13 4-13 4-4 13-4-13-13-4 13-4z"/>
+    <circle cx="258" cy="225" r="3"/>
+    <circle cx="927" cy="93" r="4"/>
+  </g>
+  <g fill="#b4a0cd">
+    <path d="M1039 110l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/>
+    <circle cx="206" cy="146" r="4"/>
+    <circle cx="877" cy="244" r="3"/>
+  </g>
+  <text x="600" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" letter-spacing="5" fill="#93768a">A LITTLE SPACE FOR IDEAS</text>
+  <text x="600" y="170" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="66" fill="#73536a">Hello, I'm Dongdong.</text>
+  <text x="600" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" letter-spacing="1.5" fill="#92778e">Welcome to my little corner</text>
+  <path d="M558 250h84" stroke="#c894ac" stroke-width="2" stroke-linecap="round"/>
+</svg>
